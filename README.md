@@ -9,7 +9,7 @@ $ echo "Hello Folks!" > README.md
 
 
 
-Full-Stack &   CyberSecurity Student :robot:. (In progress)
+Front-end &   CyberSecurity Student :robot:. (In progress)
 
 USCS University Student. :man_technologist:
 
@@ -18,7 +18,7 @@ USCS University Student. :man_technologist:
 ✍️ Drawing | 📸 Photography | 💻 Programming
 
 
-My nickname is Jota and I'am a full stack web app developer. currently living in Sao paulo, Brazil. 
+My nickname is Jota and I'am studding front-end web app developer. currently living in Sao paulo, Brazil. 
 Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan for every form of art. 🐺
 
 
