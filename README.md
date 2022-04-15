@@ -40,7 +40,7 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
 </div>
  
 
-
+![Snake animation](https://github.com/codejota/codejota/blob/output/github-contribution-grid-snake.svg)
  
  
 
