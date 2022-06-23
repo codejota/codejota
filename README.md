@@ -24,7 +24,7 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
 
 - :video_game: I like to play video games
 - :gem: I love to customize everything D:
-- 👨🏽‍💻 Current work in  New project.
+- 👨🏽‍💻 Current work in  {project_name}.
 
 
 
