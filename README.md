@@ -47,10 +47,8 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
 ##  <img src="https://cdn.discordapp.com/emojis/764879612379136011.gif?size=40&quality=lossless"> Social media :mailbox_with_no_mail:
 
 <p align="center">
-    <a href="https://twitter.com/_jotapng"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/juniorjota/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href = "mailto:contato@codejota.com"><img src="https://img.shields.io/badge/Mail-%23FF0000?style=flat&logo=GMail&logoColor=white"/></a>
-    <a href="https://www.instagram.com/jnr.jpeg/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <a href="https://wakatime.com/@codejota"><img src="https://wakatime.com/badge/user/9b69e382-a961-4fe1-a77d-136b1f73ae6f.svg"/></a>
   <img src="https://komarev.com/ghpvc/?username=codejota" alt="codejota" />
 
