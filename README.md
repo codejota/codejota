@@ -39,9 +39,6 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-
-![Snake animation](https://github.com/codejota/codejota/blob/output/github-contribution-grid-snake.svg)
- 
  
 
 ##  <img src="https://cdn.discordapp.com/emojis/764879612379136011.gif?size=40&quality=lossless"> Social media :mailbox_with_no_mail:
