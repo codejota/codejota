@@ -34,10 +34,9 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
 
 
 <div align="center">
-  <a href="http://jotacode.dev/">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=codejota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=codejota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&layout=compact&langs_count=7&theme=dracula"/>
-  <img height= "480em" src="https://wakatime.com/share/@codejota/372fe852-1af0-4c22-a0aa-c003a68ad6af.svg"/>
+  <img height= "400em" src="https://wakatime.com/share/@codejota/28427baa-ad0e-472d-a2dd-8bdb1b793b32.svg"/>
    
 </div>
  
