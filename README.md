@@ -49,14 +49,15 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
 
 
 <div align="center">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=codejota&theme=monokai&hide_border=false"/>
-  <img height= "130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=codejota&theme=calm&hide_border=false"/>
+  <img height= "130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
    
 </div>
  
 ##   <img height="40em" src="https://i.imgur.com/AW2yTff.gif"> GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=codejota&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 ##  <img src="https://cdn.discordapp.com/emojis/764879612379136011.gif?size=40&quality=lossless"> Social media :mailbox_with_no_mail:
