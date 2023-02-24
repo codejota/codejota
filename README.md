@@ -20,7 +20,7 @@ USCS University Student. :man_technologist:
 ✍️ Drawing | 📸 Photography | 💻 Programming
 
 
-My nickname is Jota and I'am studding front-end web app developer. currently living in Sao paulo, Brazil. 
+My nickname is Jota and I'am FullStack web app developer. currently living in Sao paulo, Brazil. 
 Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan for every form of art. 🐺
 
 
