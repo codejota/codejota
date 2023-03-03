@@ -11,7 +11,7 @@ $ echo "Hello Folks!" > README.md
 
 
 
-Front-end &   CyberSecurity Student :robot:. (In progress)
+FullStack Deveoper &   CyberSecurity Student :robot:. (In progress)
 
 USCS University Student. :man_technologist:
 
