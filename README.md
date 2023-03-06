@@ -54,8 +54,7 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
    
 </div>
 
-        
-   <img align="center" width="700" height="400" src="profile-3d-contrib/profile-night-rainbow.svg">       
+      
  
 ##   <img height="40em" src="https://i.imgur.com/AW2yTff.gif"> GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=codejota&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
