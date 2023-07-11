@@ -11,22 +11,22 @@ $ echo "Hello Folks!" > README.md
 
 
 
-FullStack Deveoper &   CyberSecurity Student :robot:. (In progress)
+FullStack Deveoper  :robot:. 
 
-USCS University Student. :man_technologist:
+Puc-RS University Student. :man_technologist:
 
  
 ##  <img src="https://cdn.discordapp.com/emojis/938111077118541864.gif?size=40&quality=lossless"> About me    
 ✍️ Drawing | 📸 Photography | 💻 Programming
 
 
-My nickname is Jota and I'am FullStack web app developer. currently living in Sao paulo, Brazil. 
+My nickname is Junior Ribeiro and I'am FullStack web app developer. currently living in Sao paulo, Brazil. 
 Love to travel and i'm a lifestyle photographer. Also a big fan for every form of art. 🐺
 
 
 - :video_game: I like to play video games
 - :gem: I love to customize everything D:
-- 👨🏽‍💻 Current work in  {project_name}.
+- 👨🏽‍💻 Current work in  {blogfolio}.
 
 
 
