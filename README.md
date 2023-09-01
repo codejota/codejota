@@ -7,7 +7,7 @@ $ echo "Hello Folks!" > README.md
           
           
 
-##  <img src="https://cdn.discordapp.com/emojis/857267051169054721.gif?size=40&quality=lossless"> <Hi, I'm Jota/>
+##  <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> <Hi, I'm Jota/>
 
 
 
@@ -16,7 +16,7 @@ FullStack Deveoper  :robot:.
 Puc-RS University Student. :man_technologist:
 
  
-##  <img src="https://cdn.discordapp.com/emojis/938111077118541864.gif?size=40&quality=lossless"> About me    
+##  <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> About me    
 ✍️ Drawing | 📸 Photography | 💻 Programming
 
 
@@ -26,11 +26,11 @@ Love to travel and i'm a lifestyle photographer. Also a big fan for every form o
 
 - :video_game: I like to play video games
 - :gem: I love to customize everything D:
-- 👨🏽‍💻 Current work in  {blogfolio}.
+- 👨🏽‍💻 Current work in  {blog.jotacode.dev}.
 
 
 
-# <img height="40em" src="https://i.imgur.com/M9KgSP8.gif"> Tech Stack:
+#  <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> Tech Stack:
  
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,7 +44,7 @@ Love to travel and i'm a lifestyle photographer. Also a big fan for every form o
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  
- ## <img src="https://cdn.discordapp.com/emojis/784763398256590890.webp?size=44&quality=lossless">   Jota Charts 
+ ##  <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">  Jota Charts 
 
 
 <div align="center">
@@ -56,12 +56,12 @@ Love to travel and i'm a lifestyle photographer. Also a big fan for every form o
 
       
  
-##   <img height="40em" src="https://i.imgur.com/AW2yTff.gif"> GitHub Trophies
+##    <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=codejota&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
 
 
-##  <img src="https://cdn.discordapp.com/emojis/764879612379136011.gif?size=40&quality=lossless"> Social media :mailbox_with_no_mail:
+##  <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">Social media :mailbox_with_no_mail:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/juniorjota/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
