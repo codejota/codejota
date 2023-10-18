@@ -56,11 +56,6 @@ Love to travel and i'm a lifestyle photographer. Also a big fan for every form o
 
       
  
-##    <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> GitHub Trophies
- ![](https://github-profile-trophy.vercel.app/?username=codejota&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
-
-
-
 ##  <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">Social media :mailbox_with_no_mail:
 
 <p align="center">
