@@ -13,7 +13,7 @@ $ echo "Hello Folks!" > README.md
 
 FullStack Deveoper  :robot:. 
 
-Puc-RS University Student. :man_technologist:
+PUC University Student. :man_technologist:
 
  
 ##  <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> About me    
