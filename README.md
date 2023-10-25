@@ -6,17 +6,20 @@ echo "Hello Folks!" > README.md
   <img src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif"  />
 </p>
 
-## <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">  Sup Folks!   <a href="#"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f4aa.gif" width="25"> </a>
+<img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">  </a>
+## Sup Folks!  <a href="#"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f4aa.gif" width="25">
 
 I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I work at Magna Cosma, where I'm focused on Industry 4.0, developing projects with a strong emphasis on communication using the MQTT protocol. I'm enthusiastic about learning new programming languages 🚀, diving into the realm of artificial intelligence 🤖, and I'm also passionate about 3D printing 🖨️. Feel free to explore my content, and I hope you find it inspiring. 🌟
 
-## <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> About me
+ <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> 
+ 
+ ## 🐺 About me
 
 ✍️ Drawing | 📸 Photography | 💻 Programming
 
  currently living in Sao paulo, Brazil, Love to travel and i'm a lifestyle photographer. Also a big fan for every form of art. 🐺
 
-## 🚀 Quick Info
+- ## 🚀 Quick Info
 
 <img align="right" src="https://github.com/codejota/codejota/blob/main/img/octocat-anime.gif" />
 
@@ -30,7 +33,9 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 - ❓ Looking to help new developers entering the field.
 - 💬 Feel free to ask me anything about the latest tech.
 
-# <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> Tech Stack
+ <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> 
+ 
+  ## 👾Tech Stack
 
 <div style="display: inline_block" align="center">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
@@ -47,7 +52,9 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 </div>
 
 
-## <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">   Charts
+<img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">   
+
+## 📊Charts
 
 <div align="center">
    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
@@ -56,7 +63,9 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 
 </div>
 
-## <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">Social media :mailbox_with_no_mail:
+ <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">
+ 
+  ##  :mailbox_with_no_mail:Social media
 
 <p align="center">
     <a href="https://www.linkedin.com/in/juniorjota/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
