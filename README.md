@@ -6,7 +6,7 @@ echo "Hello Folks!" > README.md
   <img src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif"  />
 </p>
 
-## <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">  Sup Folks! </a> I'm [Junior Ribeiro!](https://blog.jotacode.dev/) <a href="#"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f4aa.gif" width="25"> </a>
+## <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">  Sup! </a> I'm [Junior Ribeiro!](https://blog.jotacode.dev/) <a href="#"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f4aa.gif" width="25"> </a>
 
 I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I work at Magna Cosma, where I'm focused on Industry 4.0, developing projects with a strong emphasis on communication using the MQTT protocol. I'm enthusiastic about learning new programming languages 🚀, diving into the realm of artificial intelligence 🤖, and I'm also passionate about 3D printing 🖨️. Feel free to explore my content, and I hope you find it inspiring. 🌟
 
@@ -18,7 +18,7 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 
 ## 🚀 Quick Info
 
-<img align="right" src="URL_DA_SUA_IMAGEM" />
+<img align="right" src="https://github.com/codejota/codejota/blob/main/img/octocat-anime.gif" />
 
 - 👨‍💻 Currently working on [blog.jotacode.dev](https://blog.jotacode.dev).
 - 🤣 Fun fact: I've gotten a bit lazy with blog posts these days.
