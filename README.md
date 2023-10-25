@@ -25,7 +25,7 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 
 - 👨‍💻 Currently working on [blog.jotacode.dev](https://blog.jotacode.dev).
 - 🤣 Fun fact: I've gotten a bit lazy with blog posts these days.
-- ✉️ Reach me at [Gmail](mailto:contato@jotacode.dev).
+- ✉️ Reach me at [mail](mailto:contato@jotacode.dev).
 - 📜 Check out my [resume](https://drive.google.com/file/d/1mcvt2wXgBFWk_CylHFkaE36sp92yUHhl/view).
 - ✏️ I frequently write articles on [my blog](https://blog.jotacode.dev/blog).
 - 📚 Learning Web Service, Docker, and Next.js.
