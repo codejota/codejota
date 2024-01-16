@@ -69,8 +69,8 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 <p align="center">
     <a href="https://www.linkedin.com/in/juniorjota/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href = "mailto:contato@codejota.com"><img src="https://img.shields.io/badge/Mail-%23FF0000?style=flat&logo=GMail&logoColor=white"/></a>
-    <a href="https://wakatime.com/@codejota"><img src="https://wakatime.com/badge/user/9b69e382-a961-4fe1-a77d-136b1f73ae6f.svg"/></a>
-  <img src="https://komarev.com/ghpvc/?username=codejota" alt="codejota" /></br>
+    <a href="https://wakatime.com/@jotacode"><img src="https://wakatime.com/badge/user/9b69e382-a961-4fe1-a77d-136b1f73ae6f.svg"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jotacode" alt="jotacode" /></br>
  <a href="https://buymeacoffee.com/codejotadev"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
   </p>
