@@ -1,23 +1,16 @@
-```shell
-echo "Hello Folks!" > README.md
-```
+
 
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif"  />
 </p>
 
-<img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">  </a>
-## Sup Folks!  <a href="#"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f4aa.gif" width="25">
+```ruby
+echo "Welcome to my space!" > README.md
+```
+## Hello Everyone!   <a href="#"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30"> <a href="#"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f4aa.gif" width="25">
 
-I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I work at Magna Cosma, where I'm focused on Industry 4.0, developing projects with a strong emphasis on communication using the MQTT protocol. I'm enthusiastic about learning new programming languages 🚀, diving into the realm of artificial intelligence 🤖, and I'm also passionate about 3D printing 🖨️. Feel free to explore my content, and I hope you find it inspiring. 🌟
+I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages 🚀, diving into the realm of artificial intelligence 🤖, and I'm also passionate about 3D printing 🖨️. Feel free to explore my content, and I hope you find it inspiring. 🌟
 
- <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> 
- 
- ## 🐺 About me
-
-✍️ Drawing | 📸 Photography | 💻 Programming
-
- currently living in Sao paulo, Brazil, Love to travel and i'm a lifestyle photographer. Also a big fan for every form of art. 🐺
 
 - ## 🚀 Quick Info
 
@@ -27,16 +20,17 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 - ✉️ Reach me at [mail](mailto:contato@jotacode.dev).
 - 📜 Check out my [resume](https://cv.jotacode.dev/).
 - ✏️ I frequently write articles on [my blog](https://blog.jotacode.dev/blog).
-- 📚 Learning Web Service, Docker, and Next.js.
+- 📚 Learning Web Service, Docker, and Ruby (Rails too :D).
 - 👥 Open to collaborations on research projects.
 - ❓ Looking to help new developers entering the field.
 - 💬 Feel free to ask me anything about the latest tech.
 
- <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"> 
  
   ## 👾Tech Stack
 
 <div style="display: inline_block" align="center">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="ruby">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
@@ -51,7 +45,6 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 </div>
 
 
-<img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">   
 
 ## 📊Charts
 
@@ -62,7 +55,6 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 
 </div>
 
- <img align="center" height="40" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif">
  
   ##  :mailbox_with_no_mail:Social media
 
