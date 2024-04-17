@@ -12,18 +12,7 @@ echo "Welcome to my space!" > README.md
 I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages 🚀, diving into the realm of artificial intelligence 🤖, and I'm also passionate about 3D printing 🖨️. Feel free to explore my content, and I hope you find it inspiring. 🌟
 
 
-- ## 🚀 Quick Info
 
-<img align="right" src="https://github.com/codejota/codejota/blob/main/img/octocat-anime.gif" />
-
-- 👨‍💻 Currently working on [blog.jotacode.dev](https://blog.jotacode.dev).
-- ✉️ Reach me at [mail](mailto:contato@jotacode.dev).
-- 📜 Check out my [resume](https://cv.jotacode.dev/).
-- ✏️ I frequently write articles on [my blog](https://blog.jotacode.dev/blog).
-- 📚 Learning Web Service, Docker, and Ruby (Rails too :D).
-- 👥 Open to collaborations on research projects.
-- ❓ Looking to help new developers entering the field.
-- 💬 Feel free to ask me anything about the latest tech.
 
  
   ## 👾Tech Stack
@@ -49,7 +38,6 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 ## 📊Charts
 
 <div align="center">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=codejota&theme=calm&hide_border=false"/>
   <img height= "130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
