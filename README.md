@@ -1,20 +1,27 @@
+<img align="right" width="600" height="400" src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif">
 
-
-<p align="center">
-  <img src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif"  />
-</p>
-
-```ruby
-echo "Welcome to my space!" > README.md
+```shell
+$ puts  "Hello World" > github.rb
 ```
-## Hello Everyone!   <a href="#"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30"> <a href="#"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f4aa.gif" width="25">
-
-I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages 🚀, diving into the realm of artificial intelligence 🤖, and I'm also passionate about 3D printing 🖨️. Feel free to explore my content, and I hope you find it inspiring. 🌟
-
-
-
-
+          
+          
+## Hello, I'm Junior Ribeiro
+- FullStack Deveoper
+- CyberSecurity Student :robot:. (In progress)
  
+##  About me    
+💻 Programming | 📸 Photography |  ✍️ Drawing.
+
+My nickname is Jota and I'am FullStack developer. currently living in Sao paulo, Brazil. 
+I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages, and other tecnologies. 🚀 
+Feel free to explore my content, and I hope you find it inspiring. 🌟
+
+- :video_game: I like to play video games
+- 👀 I love to customize everything 
+- :gem: Learning about Ruby and Rails.
+- 👨🏽‍💻 Current work in https://blog.jotacode.dev/ .
+
+
   ## 👾Tech Stack
 
 <div style="display: inline_block" align="center">
@@ -34,13 +41,13 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 </div>
 
 
-
+ 
 ## 📊Charts
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=codejota&theme=calm&hide_border=false"/>
-  <img height= "130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
  
