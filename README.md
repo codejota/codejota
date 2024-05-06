@@ -1,4 +1,4 @@
-<img align="right" width="600" height="400" src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif">
+<img align="right" width="500" height="300" src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif">
 
 <!-- ```shell
 $ puts  "Hello World" > github.rb
