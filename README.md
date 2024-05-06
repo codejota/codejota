@@ -1,13 +1,16 @@
 <img align="right" width="600" height="400" src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif">
 
-```shell
+<!-- ```shell
 $ puts  "Hello World" > github.rb
-```
-          
+``` -->
+
+```rb
+$ puts  "available for hire" > work.rb
+```          
           
 ## Hello, I'm Junior Ribeiro
-- FullStack Deveoper
-- CyberSecurity Student :robot:. (In progress)
+- FullStack Developer.
+- Cyber Security Student.
  
 ##  About me    
 💻 Programming | 📸 Photography |  ✍️ Drawing.
@@ -16,10 +19,11 @@ My nickname is Jota and I'am FullStack developer. currently living in Sao paulo,
 I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages, and other tecnologies. 🚀 
 Feel free to explore my content, and I hope you find it inspiring. 🌟
 
-- :video_game: I like to play video games
-- 👀 I love to customize everything 
+
 - :gem: Learning about Ruby and Rails.
 - 👨🏽‍💻 Current work in https://blog.jotacode.dev/ .
+- :video_game: I like to play video games
+- 👀 I love to customize everything 
 
 
   ## 👾Tech Stack
