@@ -20,11 +20,8 @@ I am a graduate in Information Technology Management 🎓, and I'm currently pur
 Feel free to explore my content, and I hope you find it inspiring. 🌟
 
 
-- :gem: Learning about Ruby and Rails.
-- 👨🏽‍💻 Current work in https://blog.jotacode.dev/ .
-- :video_game: I like to play video games
-- 👀 I love to customize everything 
-
+- :gem: Learning about Ruby and Rails and NextJS.
+- 👨🏽‍💻 Current work in https://blog.jotacode.dev/ 
 
   ## 👾Tech Stack
 
@@ -38,6 +35,7 @@ Feel free to explore my content, and I hope you find it inspiring. 🌟
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
     <img align="center" height="40" width="40" src="https://www.opc-router.de/wp-content/uploads/2022/07/MQTT_128px-1.png" alt="MQTT">
