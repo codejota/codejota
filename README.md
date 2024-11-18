@@ -21,7 +21,8 @@ Feel free to explore my content, and I hope you find it inspiring. 🌟
 
 
 - :gem: Learning about Ruby and Rails and NextJS.
-- 👨🏽‍💻 Current work in https://blog.jotacode.dev/ 
+- 👨🏽‍💻 Current work in https://blog.jotacode.dev/
+- 🗂️ My CV https://cv.jotacode.dev/
 
   ## 👾Tech Stack
 
@@ -47,7 +48,6 @@ Feel free to explore my content, and I hope you find it inspiring. 🌟
 
 <div align="center" style="display: flex; flex-wrap: nowrap;">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=codejota&theme=calm&hide_border=false"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
