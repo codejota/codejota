@@ -15,7 +15,7 @@ $ puts  "available for hire" > work.rb
 ##  About me    
 💻 Programming | 📸 Photography |  ✍️ Drawing.
 
-My nickname is Jota and I'am FullStack developer. currently living in Sao paulo, Brazil. 
+My nickname is Jota and I'am developer. currently living in Sao paulo, Brazil. 
 I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages, and other tecnologies. 🚀 
 Feel free to explore my content, and I hope you find it inspiring. 🌟
 
@@ -43,7 +43,6 @@ Feel free to explore my content, and I hope you find it inspiring. 🌟
 </div>
 
 
- 
 ## 📊Charts
 
 <div align="center" style="display: flex; flex-wrap: nowrap;">
