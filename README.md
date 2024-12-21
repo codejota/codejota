@@ -48,10 +48,10 @@ Feel free to explore my content, and I hope you find it inspiring. 🌟
  
  
 <a href="https://github.com/codejota">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejota&layout=compact&langs_count=8&card_width=320&hide=html,css,javascript&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejota&layout=compact&langs_count=8&card_width=320&hide=html,css,less,javascript&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 
 
