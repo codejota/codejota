@@ -45,11 +45,15 @@ Feel free to explore my content, and I hope you find it inspiring. 🌟
 
 
 ## 📊Charts
+ 
+ 
+<a href="https://github.com/codejota">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejota&layout=compact&langs_count=8&card_width=320&hide=html,css,javascript&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
+</a>
 
-<div align="center" style="display: flex; flex-wrap: nowrap;">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
 
  
   ##  :mailbox_with_no_mail:Social media
