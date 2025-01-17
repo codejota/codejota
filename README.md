@@ -9,11 +9,12 @@ $ puts  "available for hire" > work.rb
 ```          
           
 ## Hello, I'm Junior Ribeiro
-- FullStack Developer.
-- Cyber Security Student.
+-  Developer.
+-  Software Enginner Student.
+-  Cyber Security Student.
  
 ##  About me    
-💻 Programming | 📸 Photography |  ✍️ Drawing.
+💻 Programming | 📸 Photography |  ✍️ Drawing | 3D Printing
 
 My nickname is Jota and I'am developer. currently living in Sao paulo, Brazil. 
 I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages, and other tecnologies. 🚀 
