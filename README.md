@@ -22,7 +22,7 @@ Feel free to explore my content, and I hope you find it inspiring. 🌟
 
 
 - :gem: Learning about Ruby and Rails and NextJS.
-- 👨🏽‍💻 Current work in https://blog.jotacode.dev/
+- 👨🏽‍💻 Current work in https://jotacode.dev/
 - 🗂️ My CV https://cv.jotacode.dev/
 
   ## 👾Tech Stack
