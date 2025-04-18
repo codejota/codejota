@@ -12,14 +12,13 @@ $ puts  "available for hire" > work.rb
 
 ## Hello, I'm Junior Ribeiro
 
-- 🧑🏽‍💻 Developer
-- 🎓 Software Engineering Student @ FIAP
-- 🎓 Development Full stack Student @ PUC
-- 🔐 Cybersecurity Enthusiast
+-  Software Engineering Student @ FIAP
+-  Development Full stack Student @ PUC
+-  Cybersecurity Enthusiast
 
 ## About Me
 
-💻 Programming | 📸 Photography | ✍️ Drawing | 🖨️ 3D Printing
+ Programming | Photography |  Drawing | 3D Printing
 
 a passionate developer based in São Paulo, Brazil.
 
@@ -30,13 +29,13 @@ I'm deeply interested in technology, constantly learning and evolving—whether 
 
 ### Currently:
 
-- 🚀 Learning **Ruby**, **Ruby on Rails** and **Next.js**
-- 📄 Check out my CV: [cv.jotacode.dev](https://cv.jotacode.dev/)
-- ✍️ Read more on my blog: [jotacode.dev](https://jotacode.dev/)
+-  Learning **Ruby**, **Ruby on Rails** and **Next.js**
+-  Check out my CV: [cv.jotacode.dev](https://cv.jotacode.dev/)
+-  Read more on my blog: [jotacode.dev](https://jotacode.dev/)
 
 ---
 
-  ## 👾Tech Stack
+  ## Tech Stack
 
 <div style="display: inline_block" align="center">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby">
@@ -56,7 +55,7 @@ I'm deeply interested in technology, constantly learning and evolving—whether 
 </div>
 
 
-## 📊Charts
+## Charts
  
  
 <a href="https://github.com/codejota">
