@@ -8,22 +8,33 @@ $ puts  "Hello World" > github.rb
 $ puts  "available for hire" > work.rb
 ```          
           
+
+
 ## Hello, I'm Junior Ribeiro
--  Developer.
--  Software Enginner Student.
--  Cyber Security Student.
- 
-##  About me    
-💻 Programming | 📸 Photography |  ✍️ Drawing | 3D Printing
 
-My nickname is Jota and I'am developer. currently living in Sao paulo, Brazil. 
-I am a graduate in Information Technology Management 🎓, and I'm currently pursuing a postgraduate program in FullStack Development 🧑‍🔬. I'm enthusiastic about learning new programming languages, and other tecnologies. 🚀 
-Feel free to explore my content, and I hope you find it inspiring. 🌟
+- 🧑🏽‍💻 Developer
+- 🎓 Software Engineering Student @ FIAP
+- 🎓 Development Full stack Student @ PUC
+- 🔐 Cybersecurity Enthusiast
 
+## About Me
 
-- :gem: Learning about Ruby and Rails and NextJS.
-- 👨🏽‍💻 Current work in https://jotacode.dev/
-- 🗂️ My CV https://cv.jotacode.dev/
+💻 Programming | 📸 Photography | ✍️ Drawing | 🖨️ 3D Printing
+
+a passionate developer based in São Paulo, Brazil.
+
+I hold a degree in Information Technology Management and am currently pursuing a **graduate program in Full Stack Development**, along with a **Bachelor's in Software Engineering at FIAP**.
+I'm deeply interested in technology, constantly learning and evolving—whether it's mastering new programming languages or diving into the world of cybersecurity and cloud infrastructure.
+
+---
+
+### Currently:
+
+- 🚀 Learning **Ruby**, **Ruby on Rails** and **Next.js**
+- 📄 Check out my CV: [cv.jotacode.dev](https://cv.jotacode.dev/)
+- ✍️ Read more on my blog: [jotacode.dev/blog](https://jotacode.dev/blog)
+
+---
 
   ## 👾Tech Stack
 
