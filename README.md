@@ -32,7 +32,7 @@ I'm deeply interested in technology, constantly learning and evolving—whether 
 
 - 🚀 Learning **Ruby**, **Ruby on Rails** and **Next.js**
 - 📄 Check out my CV: [cv.jotacode.dev](https://cv.jotacode.dev/)
-- ✍️ Read more on my blog: [jotacode.dev/blog](https://jotacode.dev/blog)
+- ✍️ Read more on my blog: [jotacode.dev](https://jotacode.dev/)
 
 ---
 
