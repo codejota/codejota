@@ -1,4 +1,4 @@
-<img align="right" width="500" height="300" src="https://miro.medium.com/max/1400/1*aSBeNSEcBvl8wBVIpUlnCQ.gif">
+<img align="right" width="500" height="300" src="https://i.redd.it/usli2xi63p371.gif">
 
 <!-- ```shell
 $ puts  "Hello World" > github.rb
@@ -62,7 +62,7 @@ I'm deeply interested in technology, constantly learning and evolving—whether 
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=codejota&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejota&layout=compact&langs_count=8&card_width=320&hide=html,css,less,javascript&theme=calm&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejota&layout=compact&langs_count=8&card_width=320&hide=html,css,less,javascript,pug,jupyter%20notebook,coffeescript,powershell&theme=calm&hide_border=false&include_all_commits=true&count_private=true"/>
 </a>
 
 
