@@ -6,6 +6,8 @@ $ puts  "Hello World" > github.rb
 
 ```rb
 $ puts  "available for hire" > work.rb
+
+
 ```          
           
 
@@ -22,8 +24,7 @@ $ puts  "available for hire" > work.rb
 
 a passionate developer based in São Paulo, Brazil.
 
-I hold a degree in Information Technology Management and am currently pursuing a **graduate program in Full Stack Development**, along with a **Bachelor's in Software Engineering at FIAP**.
-I'm deeply interested in technology, constantly learning and evolving—whether it's mastering new programming languages or diving into the world of cybersecurity and cloud infrastructure.
+I hold a degree in Information Technology Management and am currently pursuing a graduate program in Full Stack Development, as well as a Bachelor's in Software Engineering at FIAP. I'm deeply interested in technology and constantly learning and evolving—whether by mastering new programming languages or exploring the fields of cybersecurity and cloud infrastructure.
 
 ---
 
