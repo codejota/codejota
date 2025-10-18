@@ -25,7 +25,9 @@ a passionate developer based in São Paulo, Brazil.
 
 I hold a degree in Information Technology Management and am currently pursuing a graduate program in Full Stack Development, as well as a Bachelor's in Software Engineering at FIAP. I'm deeply interested in technology and constantly learning and evolving—whether by mastering new programming languages or exploring the fields of cybersecurity and cloud infrastructure.
 
-<img src="img/hr.svg" alt="wolf hr">
+<div align="center">
+  <img src="img/hr.svg" alt="wolf hr">
+</div>
 
 ### Currently:
 
@@ -33,17 +35,18 @@ I hold a degree in Information Technology Management and am currently pursuing a
 -  Check out my CV: [cv.jotacode.dev](https://cv.jotacode.dev/)
 -  Read more on my blog: [jotacode.dev](https://jotacode.dev/)
 
-<img src="img/hr.svg" alt="wolf hr">
-
+<div align="center">
+  <img src="img/hr.svg" alt="wolf hr">
+</div>
 
 ### Checkout my Plugins/Themes
 
 -    **Nightly Wolf for VSCode:** A minimalistic dark theme for Visual Studio Code. [Check it out on the Microsoft Marketplace!](https://marketplace.visualstudio.com/items?itemName=jotacode.nightly-wolf-theme)
 -    **Nightly Wolf for Obsidian:** The same minimalistic theme, adapted for your favorite note-taking app. Available on [GitHub](https://github.com/codejota/NightlyWolf_ObsidianTheme) or through the in-app Community Themes store.
 
-<img src="img/hr.svg" alt="wolf hr">
-
-
+<div align="center">
+  <img src="img/hr.svg" alt="wolf hr">
+</div>
 
   ## Tech Stack
 
