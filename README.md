@@ -36,6 +36,14 @@ I hold a degree in Information Technology Management and am currently pursuing a
 
 ---
 
+### Checkout my Plugins/Themes
+
+-    **Nightly Wolf for VSCode:** A minimalistic dark theme for Visual Studio Code. [Check it out on the Microsoft Marketplace!](https://marketplace.visualstudio.com/items?itemName=jotacode.nightly-wolf-theme)
+-    **Nightly Wolf for Obsidian:** The same minimalistic theme, adapted for your favorite note-taking app. Available on [GitHub](https://github.com/codejota/NightlyWolf_ObsidianTheme) or through the in-app Community Themes store.
+
+---
+
+
   ## Tech Stack
 
 <div style="display: inline_block" align="center">
